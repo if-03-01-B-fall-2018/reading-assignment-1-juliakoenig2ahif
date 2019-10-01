@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<titel><h1> CheatSheet </h1></title>
+<head>
+
+<body>
+
+<h2>World Wide Web</h2>
+
+<p><strong>1. What are the most essential technologies that made the World Wide Web such a success?</strong></p>
+<p>The most essential technologies are URL, URI, HTML, HTTP.</p>
+
+<p><strong>2. How are resources (html pages, images, etc) addressed in the web?</strong></p>
+<p>With a protocol (http), a hostname (www.example.com), and a file name (index.html).</p>
+
+<p><strong>3. What are the general components of a url?</strong></p>
+<p>A Uniform Resource Locator (URL or web address) has a scheme that includes an information about what it is: a file or a news.      
+Considering what it is there will be a specific part, like the username, host, port, path, query, fragment in case the URL starts with Https://</p>
+
+<h2>Web Server</h2>
+
+<p><strong>What is a web server?</strong></p>
+<p>A Web server is a computer with webserver software.</p>
+
+<p><strong>What does a web server?</strong></p>
+<p>The primary function of a web server is to store, process and deliver web pages to clients.</p>
+
+<p><strong>How can content be stored on a web server?</strong></p>
+<p>The files that are stored on a webserver are stored in a data base or simply as a file on the desktop.</p>
+
+<p><strong>How is content in webpages described?</strong></p>
+<p>Web pages delivered are most frequently HTML documents, which may include images, style sheets and scripts in addition to text content.</p>
+
+<h2>Web Client</h2>
+
+<p><strong>What is a web client</strong></p>
+<p>A web client is every device that is connected to the internet.</p>
+
+<p><strong>What does a web client?</strong></p>
+<p>A web client sends data to servers that will analyze the request and serve the client with the requested information.</p>
+
+<p><strong>Web Client and Web Browser is the same?</strong></p>
+<p>No, as I Sayed the client will only send and receives packages, and the web browser will display this content and manage what the client should request next from the server.</p>
+
+<h2>Hello World</h2>
+
+<p><strong>What is the html head element?</strong></p>
+<p>The >head< element is a container for metadata (data about data) and is placed between the >html< and >body<.</p>
+
+<p><strong>What does &lt;!DOCTYPE`&gt; html mean?</strong></p>
+<p>The >!DOCTYPE< declaration is not an HTML tag; it is an instruction to the web browser about what version of HTML the page is written in.</p>
+
+<p><strong>What are the two top most elements within the html element?</strong></p>
+<p>The Body element and the head element.</p>
+
+<p><strong>How to emphasize a text and how is it displayed in the browser?</strong></p>
+<p>The >em< tag is a phrase tag. It renders as <em>emphasized text</em>.</p>
+
+<p><strong>How to mark up important ext and how is it displayed in the browser?</strong></p>
+<p>The >strong< tag is a phrase tag. It defines <strong>important text</strong>.</p>
+</body>
+</html>
